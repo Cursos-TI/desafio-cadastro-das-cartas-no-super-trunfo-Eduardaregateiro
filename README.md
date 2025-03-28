@@ -12,13 +12,18 @@ Bem-vindo ao desafio "Super Trunfo - Países"!
 
 **Funcionalidades do Sistema**
  *Cadastro de cidades: Insira dados como estado, código, nome, população, área, PIB e pontos turísticos.
+ 
  *Cálculo de atributos: Calcula densidade populacional, PIB per capita e o "Super Poder".
+ 
  *Comparação das Cartas: O usuário poderá comparar as duas cartas atributo a atributo, mostrando qual carta venceu (1 se a Carta 01 vence, 0 se a Carta 02 vence).
+ 
  *Exibição de dados: Apresenta as informações cadastradas e os resultados de maneira clara.
 
 **Como usar**
  *Compile o código em um compilador de C.
+ 
  *Execute e insira os dados das cidades conforme solicitado.
+ 
  *Confira os resultados e comparações no final.
 
 **Observações**
