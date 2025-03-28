@@ -11,6 +11,7 @@ Bem-vindo ao desafio "Super Trunfo - Países"!
  das informações fornecidas.
 
 **Funcionalidades do Sistema**
+
  *Cadastro de cidades: Insira dados como estado, código, nome, população, área, PIB e pontos turísticos.
  
  *Cálculo de atributos: Calcula densidade populacional, PIB per capita e o "Super Poder".
@@ -20,6 +21,7 @@ Bem-vindo ao desafio "Super Trunfo - Países"!
  *Exibição de dados: Apresenta as informações cadastradas e os resultados de maneira clara.
 
 **Como usar**
+
  *Compile o código em um compilador de C.
  
  *Execute e insira os dados das cidades conforme solicitado.
