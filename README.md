@@ -6,6 +6,7 @@ Bem-vindo ao desafio "Super Trunfo - Países"!
  onde você comparará os atributos das cidades.
 
 **Descrição**
+
  Este programa desenvolvido em linguagem C possibilita registrar e apresentar informações detalhadas sobre duas cidades distintas. O usuário pode inserir
  dados como estado, código da cidade, nome, população, área, PIB e número de pontos turísticos. Após a inserção, o programa exibe um resumo claro e organizado 
  das informações fornecidas.
